@@ -1,0 +1,216 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PC\\Sparta Metaverse\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|C:\\Users\\PC\\Sparta Metaverse\\assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoremanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|c:\\users\\pc\\sparta metaverse\\assets\\scripts\\mainuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainuimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|C:\\Users\\PC\\Sparta Metaverse\\assets\\scripts\\mainscoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainscoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|C:\\Users\\PC\\Sparta Metaverse\\assets\\scripts\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\scoreui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|C:\\Users\\PC\\Sparta Metaverse\\assets\\scripts\\explanationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\explanationui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|C:\\Users\\PC\\Sparta Metaverse\\assets\\scripts\\thestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\thestack.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|C:\\Users\\PC\\Sparta Metaverse\\assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\uimanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|C:\\Users\\PC\\Sparta Metaverse\\assets\\scripts\\baseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\baseui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|C:\\Users\\PC\\Sparta Metaverse\\assets\\scripts\\homeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\homeui.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|C:\\Users\\PC\\Sparta Metaverse\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C562FD0F-BF19-04AE-CDD7-83D396BBE9D3}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\Rtan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Rtan.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\Camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Camera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainUIManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\MainUIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainUIManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\MainUIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainUIManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T02:40:38.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TheStack.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\TheStack.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TheStack.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\TheStack.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TheStack.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAcwFIBAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T02:11:17.097Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\ScoreManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:15:45.099Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainScoreUI.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\MainScoreUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainScoreUI.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\MainScoreUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainScoreUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-02T01:14:37.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ScoreUI.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\ScoreUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScoreUI.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\ScoreUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScoreUI.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAuwA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T12:09:18.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExplanationUI.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\ExplanationUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ExplanationUI.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\ExplanationUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ExplanationUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:50:57.129Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UIManager.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\UIManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UIManager.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\UIManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UIManager.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAQwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:33:31.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BaseUI.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\BaseUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BaseUI.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\BaseUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BaseUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:33:20.01Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeUI.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\HomeUI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HomeUI.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\HomeUI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HomeUI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:32:38.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAIwEYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-01T11:07:10.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Camera.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\Camera.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Camera.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\Camera.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Camera.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-30T00:36:10.164Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Rtan.cs",
+              "DocumentMoniker": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\Rtan.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Rtan.cs",
+              "ToolTip": "C:\\Users\\PC\\Sparta Metaverse\\Assets\\Scripts\\Rtan.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Rtan.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-29T06:26:51.809Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
