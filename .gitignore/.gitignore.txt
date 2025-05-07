@@ -1,0 +1,26 @@
+# Unity 빌드 및 캐시 폴더 무시
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+.vs/
+UserSettings/
+
+# Visual Studio 관련
+*.csproj
+*.sln
+*.user
+*.suo
+*.tmp
+*.pidb
+*.booproj
+*.svd
+*.pdb
+*.db
+*.opendb
+
+# macOS/Windows 시스템 파일 무시
+.DS_Store
+Thumbs.db
